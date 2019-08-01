@@ -1,0 +1,7 @@
+D:\algorithm\plaza_jp\plaza_jp\bin\Debug\plaza_jp.exe.config
+D:\algorithm\plaza_jp\plaza_jp\bin\Debug\plaza_jp.exe
+D:\algorithm\plaza_jp\plaza_jp\bin\Debug\plaza_jp.pdb
+D:\algorithm\plaza_jp\plaza_jp\obj\Debug\plaza_jp.csprojAssemblyReference.cache
+D:\algorithm\plaza_jp\plaza_jp\obj\Debug\plaza_jp.csproj.CoreCompileInputs.cache
+D:\algorithm\plaza_jp\plaza_jp\obj\Debug\plaza_jp.exe
+D:\algorithm\plaza_jp\plaza_jp\obj\Debug\plaza_jp.pdb
